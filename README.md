@@ -1,1 +1,1 @@
-# friendly-fortnight
+# Design Docs for Elemental Escape
